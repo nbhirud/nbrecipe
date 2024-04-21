@@ -5,6 +5,6 @@ I know that most chefs won't be using git. But I am a programmer first then anyt
 
 I first thought of creating a blog or adding it to my personal website, but then it misses the point of peer reviews and contributions. 
 
-All this info will be accessible from here:
-https://recipe.nbhirud.com/
-https://nbhirud.github.io/nbrecipe/
+All this info will be accessible from here:  
+https://recipe.nbhirud.com/  
+https://nbhirud.github.io/nbrecipe/  
